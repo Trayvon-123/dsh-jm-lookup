@@ -1,9 +1,9 @@
 name: jm_lookup
 display_name: 禁漫编号查询
-desc: 按关键词（本子名/作者名）搜索禁漫天堂，返回 JM 编号与链接，并提供 LLM 可调用的 jm_search 工具
-version: 0.1.0
+desc: 按关键词搜索禁漫天堂返回 JM 编号与链接，支持关键词搜索与最新上架列表，提供 jm_search / jm_hot 两个 LLM 工具
+version: 0.2.0
 author: dsh
-repo: ""
+repo: https://github.com/Trayvon-123/dsh-jm-lookup
 tags:
   - 禁漫
   - JM
